@@ -1,3 +1,3 @@
-//1 recipe Object
-var recipe = {};
+//1 recipes Object
+var recipes = {};
 
